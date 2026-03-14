@@ -1985,7 +1985,6 @@ bun test
 
 - [CLAUDE.md](./CLAUDE.md) - Instructions for AI agents
 - [README.md](./README.md) - Quick start guide
-- [AI-OPTIMIZED-COMPARISON.md](./AI-OPTIMIZED-COMPARISON.md) - Python vs Next.js comparison
 
 ---
 
